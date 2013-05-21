@@ -1,0 +1,12 @@
+body { padding: 60px 0 40px }
+
+.carousel-indicators {
+  position: absolute;
+  top: 550px;
+  right: 550px;
+  z-index: 5;
+  margin: 0;
+  list-style: none;
+}
+
+.rede{ padding: 5px; border: 1px solid #e5e5e5; }
